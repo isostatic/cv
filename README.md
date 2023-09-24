@@ -48,27 +48,28 @@ _A BBC Broadcast Engineer with two decades of experience in multiple aspects of 
 The BBC's contribution network had grown slowly since 2012, but in 2019 a colleague and I were given limited funding to transform it into a reliable platform that could take an essential core part of the BBC's IP strategy which could be trusted to deliver the output for major events such as [the Funeral of Elizabeth II](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II) and the [Coronation of Charles III](https://en.wikipedia.org/wiki/Coronation_of_Charles_III_and_Camilla), as well as normal events such as [Glastonbury](https://en.wikipedia.org/wiki/Glastonbury_Festival), [Reading](https://en.wikipedia.org/wiki/Reading_and_Leeds_Festivals) and key remote-production events like [Springwatch](https://en.wikipedia.org/wiki/Springwatch). 
 
 ### 2015 BBC Singapore Move
-In 2015 the BBC moved its Asia Business operation to a new studio. I led on the technical design and implementation of a major new international bureau for the BBC, which included the specification and implementation of
-  - Resilient IP Video network supporting a variety of broadcast codecs
+In 2015, the BBC moved its Asia Business operation to a new studio. I led on the technical design and implementation of a major new international bureau for the BBC, which included planning and migration of existing broadcast infrastructure and the specification and implementation of:
+
+  - Resilient IP video network supporting a variety of broadcast codecs
   - On set and lower third graphics using Caspar CG
   - In house product (Raven) to power on-set video wall and gallery playouts
-  - Expansion of the video archive system
-As well as the the planning and migration of existing broadcast infrastructure
+  - Expansion of the video archive system. Planning and migration of existing broadcast infrastructure
 
 ### 2010-2014 International video contribution
-From 2010 onwards I designed and installed the BBC's international bureau IP video contribution network, utilising NTT encoders to broadcast via low cost internet connections from approximately 20 countries on 5 continents, including the 2014 US Midterm elections
+From 2010 onwards I designed and installed the BBC's international bureau IP video contribution network, utilising NTT encoders to broadcast via low cost internet connections from approximately 20 countries on 5 continents, including the 2014 US midterm elections
   - Design of initial operational control system to allow encoders to feed into hubs in London and Singapore
   - Design of bespoke monitoring system to identify network problems and route around them
   - Physical installation of encoders and self-op studios in a variety of locations from Gaza to Bangkok, including going straight to live in Bangkok to cover an [unexpected explosion](https://en.wikipedia.org/wiki/2013%E2%80%932014_Thai_political_crisis)
 
 ### 2010-2014 JFE
-JFE is in house software for exchanging video with BBC journalists in the field. It allows them to access the BBC's production systems across approximately 20 sites and file back packages from anywhere in the world. For a decade or so, JFE put approximately half of the typical BBC News bulletin on air, and allows high quality HD to be fed back in short order thanks to a combination of FFMPEG video compression and deep integration into News workflows and production systems. JFE was developed in a responsive way in collaboration with field shoot-edits to meet real business needs. While increased bandwidth means the need to highly compress recorded material is less essential, it is still in daily use in 2023 with little extra development
+JFE is in-house software for exchanging video with BBC journalists in the field. It allows them to access the BBC's production systems across approximately 20 sites and file back packages from anywhere in the world. JFE has a 12 year track record of putting approximately half of the typical BBC News bulletin on air, allowing high quality HD to be quickly filed back over unreliable low bandwidth links, thanks to a combination of FFMPEG video compression and deep integration into News workflows and production systems. JFE was developed in a responsive way in collaboration with field shoot-edits to meet real business needs. While increased bandwidth means the need to highly compress recorded material is less essential, it is still in daily use in 2023 with little extra development.
 
 ### 2008 BBC News standard Linux build
-Built an engineer-friendly version of Ubuntu to allow BBC News and elsewhere in the organisation to standardise our Linux estate. Based originally on Ubuntu 8.04 (and updated with every LTS release), it brought common reporting, monitoring and user management to a previous ecosystem consisting Redhat, Suse, Solaris and Mandrake machines. This allowed the department to draw on great efficiencies in its server infrastructure. 
+
+In 2008 I built an engineer-friendly standard to deploy Ubuntu across BBC News and elsewhere in the organisation to standardise our Linux estate. Based originally on Ubuntu 8.04 (and updated with every LTS release), it brought common reporting, monitoring and user management to a previous ecosystem consisting of Redhat, Suse, Solaris and Mandrake machines. This allowed the department to draw on great efficiencies in its server infrastructure. 
 
 ### 2006-2008 Davina
-I created a web-based interface to the internal BBC News production system "Jupiter", allowing people outside of the BBC newsroom to search, view and use every video asset that News holds, from a desktop in Exeter to a blackberry in Botswana. This was envisaged and created in direct response to end users comments. The system is still in daily use in 2023 with very little extra development beyond moving video from Flash to HTML when the iPhone started to replace the blackberry.
+I created a web-based interface to the internal BBC News production system "Jupiter", allowing people outside of the BBC newsroom to search, view and use every video asset that News holds, from a desktop in Exeter to a Blackberry in Botswana. This was envisaged and created in direct response to field journalist feedback. The system is still in daily use in 2023 with very little extra development beyond moving video from Flash to HTML when the iPhone started to replace the Blackberry.
 
 ## Education
 
