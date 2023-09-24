@@ -1,6 +1,6 @@
 # Paul Weaver
 
-_An experienced BBC Broadcast Engineer with two decades of experience in multiple aspects of TV News_
+_A BBC Broadcast Engineer with two decades of experience in multiple aspects of Broadcast Technology_
 
 [Email](mailto:paul@zpjw.net) / [Website](https://newweaver.com/) / [LinkedIn](https://www.linkedin.com/in/pauljamesweaver/) / [GitHub](https://github.com/isostatic/) / [CV](https://cv.newweaver.com)
 
