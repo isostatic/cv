@@ -27,22 +27,22 @@ _An experienced BBC Broadcast Engineer with two decades of experience in multipl
 
 ### Project Manager [BBC News](https://news.bbc.co.uk) 2015-2016
 
-    - Design and delivery of technical aspects of a [https://www.bbc.co.uk/mediacentre/worldnews/2015/new-asia-pacific-news-hq](major new international bureau in Singapore)
-    - Involved a constrained timetable with very limited time to pilot and launch
-    - Deployment of unproven technologies including new CasparCG graphics
+  - Design and delivery of technical aspects of a [https://www.bbc.co.uk/mediacentre/worldnews/2015/new-asia-pacific-news-hq](major new international bureau in Singapore)
+  - Involved a constrained timetable with very limited time to pilot and launch
+  - Deployment of unproven technologies including new CasparCG graphics
 
 ### Systems Development Engineer [BBC News](https://news.bbc.co.uk) 2006-2015
 
-    - Variety of work for BBC news
-    - third and fourth line support and development of the Jupiter/Quantel news production suite 
-    - Conception, Design and Development the web interface to BBC's "Jupiter" news production system
-    - Design and Development of the primary ['JFE' tool](https://www.tvbeurope.com/production-post/newsroom-systems-tv-journalism-on-jupiter) for delivering recorded packages from the field back to base (Java)
-    - Design and development of the core BBC News monitoring system (Nagios)
-    - Sysadmin work including standardisation of BBC News's internal Linux platform (Ubuntu)
-    - Significant amounts of International work covering a variety of broadcasting technologies from cameras to networks to graphics, including development of network of international video contribution
+  - Variety of work for BBC news
+  - third and fourth line support and development of the Jupiter/Quantel news production suite 
+  - Conception, Design and Development the web interface to BBC's "Jupiter" news production system
+  - Design and Development of the primary ['JFE' tool](https://www.tvbeurope.com/production-post/newsroom-systems-tv-journalism-on-jupiter) for delivering recorded packages from the field back to base (Java)
+  - Design and development of the core BBC News monitoring system (Nagios)
+  - Sysadmin work including standardisation of BBC News's internal Linux platform (Ubuntu)
+  - Significant amounts of International work covering a variety of broadcasting technologies from cameras to networks to graphics, including development of network of international video contribution
 
 ### Trainee Broadcast Engineer [BBC News](https://news.bbc.co.uk) 2003-2006
-    - BBC Engineering training at wood norton, combined with on-the-job training in a 24/7 technical support environment supporting BBC News production facilities in Television Centre.
+  - BBC Engineering training at wood norton, combined with on-the-job training in a 24/7 technical support environment supporting BBC News production facilities in Television Centre.
 
 ## Major projects
 
