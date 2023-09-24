@@ -6,7 +6,8 @@ _An experienced BBC Broadcast Engineer with two decades of experience in multipl
 
 ## Experience
 
-Systems Engineer [BBC News](https://news.bbc.co.uk) 2016-2023
+### Systems Engineer [BBC News](https://news.bbc.co.uk) 2016-2023
+
   - Full Stack Network Engineer
     - Responsible for design, build and operation of BBC's vendor-agnostic (Cisco, Juniper, Fortigate, Arista, Mikrotik) contribution network operating across hundreds of devices over dozens of sites nationally and internationally
     - Development and Introduction of gitops powered automation in various parts of the network
@@ -24,12 +25,14 @@ Systems Engineer [BBC News](https://news.bbc.co.uk) 2016-2023
     - Wrappers around our IP management to improve with our A/B (PHP)
     - Network performance tool to investigate ZScaler issues in countries without local nodes (NodeJS)
 
-Project Manager [BBC News](https://news.bbc.co.uk) 2015-2016
+### Project Manager [BBC News](https://news.bbc.co.uk) 2015-2016
+
     - Design and delivery of technical aspects of a [https://www.bbc.co.uk/mediacentre/worldnews/2015/new-asia-pacific-news-hq](major new international bureau in Singapore)
     - Involved a constrained timetable with very limited time to pilot and launch
     - Deployment of unproven technologies including new CasparCG graphics
 
-Systems Development Engineer [BBC News](https://news.bbc.co.uk) 2006-2015
+### Systems Development Engineer [BBC News](https://news.bbc.co.uk) 2006-2015
+
     - Variety of work for BBC news
     - third and fourth line support and development of the Jupiter/Quantel news production suite 
     - Conception, Design and Development the web interface to BBC's "Jupiter" news production system
@@ -38,7 +41,7 @@ Systems Development Engineer [BBC News](https://news.bbc.co.uk) 2006-2015
     - Sysadmin work including standardisation of BBC News's internal Linux platform (Ubuntu)
     - Significant amounts of International work covering a variety of broadcasting technologies from cameras to networks to graphics, including development of network of international video contribution
 
-Trainee Broadcast Engineer [BBC News](https://news.bbc.co.uk) 2003-2006
+### Trainee Broadcast Engineer [BBC News](https://news.bbc.co.uk) 2003-2006
     - BBC Engineering training at wood norton, combined with on-the-job training in a 24/7 technical support environment supporting BBC News production facilities in Television Centre.
 
 ## Major projects
