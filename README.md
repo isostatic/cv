@@ -75,7 +75,7 @@ Creation of a web-based interface to the internal BBC News production system "Ju
 ## Education
 
 **BBC Engineering Training** in Computer Science<br>
-[BBC Wood Norton](https://www.bbc.co.uk/academy] - Evesham, UK (2003-2006)
+[BBC Wood Norton](https://www.bbc.co.uk/academy) - Evesham, UK (2003-2006)
 
 **Bachelor of Science** in Computer Science<br>
-[Exeter University](https://www.exeter.ac.uk/] - Exeter, UK (2000-2003)
+[Exeter University](https://www.exeter.ac.uk/) - Exeter, UK (2000-2003)
